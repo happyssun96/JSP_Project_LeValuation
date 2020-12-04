@@ -4,8 +4,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="EUC-KR">
-<title>404 Error</title>
+<meta name="viewport"
+	content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta charset="EUC-KR"><title>404 Error</title>
 <link
 	href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700,900"
 	rel="stylesheet">
@@ -33,5 +34,8 @@
 <p><%=request.getRequestURL()%>?<%=request.getQueryString()%>
 <p><a href="index.jsp" class="btn btn-secondary">홈으로 돌아가기</a>
 </div>
+
+	<%@ include file="footer.jsp"%>
+
 </body>
 </html>
