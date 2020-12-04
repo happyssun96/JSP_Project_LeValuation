@@ -4,7 +4,7 @@
 ##  💻 실행 화면
 
 <p align="center">
-    
+    <img src="https://user-images.githubusercontent.com/59468442/101168234-79ab9800-367e-11eb-9638-3dbaff115936.gif">
 
 </p>
 
