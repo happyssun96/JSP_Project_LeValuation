@@ -4,7 +4,7 @@
 ##  💻 실행 화면
 
 <p align="center">
-    <img src="C:\Users\user\Downloads\2020-12-04_21-47-59.gif">
+    
 
 </p>
 
