@@ -23,7 +23,7 @@
 - 배포주소 : [Welcome to LeValuation.com](http://cancan1.cafe24.com/)
 - 깃 허브 주소 : [https://github.com/happyssun96/JSP_Project_LeValuation](https://github.com/happyssun96/JSP_Project_LeValuation)
 - 브라우저 실행환경 : chrome, edge, 웨일브라우저
-- 테스트 계정
+- 테스트 계정(로그인 후 이용 가능)
   - 아이디 : test
   - 비밀번호 : 1234
 
